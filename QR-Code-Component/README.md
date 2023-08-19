@@ -30,6 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Haseeb Yousuf](https://www.your-site.com)
+- Website - [Haseeb Yousuf](https://www.haseebyousuf.me)
 - Frontend Mentor - [@haseebyousuf](https://www.frontendmentor.io/profile/haseebyousuf)
 - Twitter - [@haseebyousuf](https://www.twitter.com/haseebyousuf)
