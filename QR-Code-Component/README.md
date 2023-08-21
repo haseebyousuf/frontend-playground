@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-eoyKek7P6J)
-- Live Site URL: [Live](https://haseebyousuf.github.io/frontend-playground/QR-Code-Component/)
+- Solution URL: [Solution](https://github.com/haseebyousuf/frontend-playground/tree/main/Newsletter-Signup)
+- Live Site URL: [Live](https://haseebyousuf.github.io/frontend-playground/Newsletter-Signup/)
 
 ### Built with
 
