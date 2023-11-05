@@ -5,7 +5,7 @@ const Folder = ({ data }) => {
     return (
       <div>
         {/* Folder Logic */}
-        <span style={{ cursor: "pointer" }} onClick={() => setExpand(!expand)}>
+        <span className="folder" onClick={() => setExpand(!expand)}>
           📁{data.name}
         </span>
         {data.items.map((item) => {
@@ -23,7 +23,7 @@ const Folder = ({ data }) => {
   } else {
     return (
       <div>
-        <span>📄{data.name}</span>
+        <span className="file">📄{data.name}</span>
       </div>
     );
   }
